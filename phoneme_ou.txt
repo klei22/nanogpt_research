@@ -1,0 +1,197 @@
+Overriding: out_dir = out-shakespeare-char
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+ w'In A@ DeI stl'aIk De@ b'It3 sp'i:tS_:_: and s'oU
+ b,Vt wID pl'Vk ,Ip maI tS'i:ks
+ kl'ar@ns
+ aI s'eI D@ l'eIm s'El D@ p'i@3 fr0m b'oUld
+ and w'3:d m,eIk D'ID3 s,Vm t@ DIs m'eI br'IN D@ tr'aI s'eIfti; 'O:l 0vD@ w'i:ksz rI2t'3:nz
+ w'e@fo@ wi: sk'eIpt D@ k'INz s'Its w'aIf wO@ t@ D@ k'IN maI bl'Vdz s'oUl maI f'i:ldz a#g'Enst D@ S'eImb3
+ fO@r- 'Edw3d f'u:l
+ w,oU hi: haT d'Id ju: h'Ev@n m'anz 0v ,0n m,i: v'Eri S,al n,0t 'aUt t@ D@ k'0ns@L
+ w,e@ s'VtS s'Et@Lz S'Vn Dat w'3:dz D'aU h'eIst s,oU n,0t h'A
+---------------
+
+ h'A@m
+ k'Vz@n
+ 'oU
+ w,En DeI A@ De@ k'Vm
+ w,0ts a#p'i@3z DIs n'oUm,o@
+ m'an- a#l'oUn
+ w'0rIk
+ b'Id m'ad
+ aI m'VtS w'Ilt
+ D@ b'Eg@ri w'3:dz 0v sl'aIt
+ kw'i:n
+ 'oU
+ k'Vmf3t n'oU
+ b,Vt aIl t@ h'A@t
+ m'o@ D@ g'Estl@s s'Vd@n fO@ Da#n 'O@d3 st'eItI2d wID a# T'aUz@nd sk'anst D'aU t'eInt t@ pl'eIs
+ Vnb'Ed
+ D@ sk'Vntri t@ r'eIz s,oU h'aIn@s
+ hIz s'Vn
+ aI f'aast aI d'u: s'oU
+ f'3:st s'3:vINm@n
+ l'aIk m,i: s'3:vIsI2dZ at wID D'Vs
+ D'En rI2p'e@ De@r- 'aIz
+ s,Vm k@ns'Ent@ns f'aUnd
+ D@ p'A@tiz 0vD@ t'aU@z 0v
+---------------
+
+ D@ b'at@L 0v Dat hi:
+ k'IN h'Enri v,i:;'aI
+ 'oU l'Vv s'It aI hav d'aUn
+ n'O@ r'oUmI2;,oU
+ t'Iz D@ r'av@L f'oUz f'i@3f@L sp'oUk@n wIDD@ st'andz 0v f'eITf@L '0n
+ and m'En
+ f'eIstINz
+ b'OI
+ w'0tSm@n
+ w,0t nj'u:zd sp'i:ks D'at
+ w'El
+ m'o@ m'0nt@gj,u:z hIz b'Izn@s_:_: D'Vs rI2kw'aI@
+ hi:; A@ hi:; Iz at 'Ev3 k'aUns@L
+ kl'If3d
+ and 'aUt D@ h'Ev@nz baI hIz r'i:z@nz
+ aI m'eI a# p'eIp@st'Est
+ and hi: w0z a# m'O@t@L pr'Ins
+ n'oU s'O: t@ l'aI@ns
+ d'VtSEs 0v hIz s'Ilkr@ns st'anli
+ 'and
+ aI wIl hav a# w'3:dz
+---------------
+
+ m'Istr@s t'o@md m'adZI2sti
+ and s'eI ju:
+ gl'0st3
+ kam'IloU aI wID jO@ pr'Ivi
+ l'u:sI2;,oU
+ aI k'an0t ju: m'Vst ju: n'oU m,VtS ju:
+ br'u:t@s
+ D'e@z In p'eIl s'ak 0v j'O@k
+ n'aU
+ 'aI
+ If aI d'u: t'aIm aI h'i@3r- It sp'i:k a# s'IldI2d
+ maI s'oUlsbriz t@ m'aIn
+ s,oU aI t'Ent D,aI s'Iti k@m'It D,aI w'El Vnk'3:sI2d D@ k'INd@m 'aI_:_: w,e@ n'aU
+ and l'Vv m'Eni sk'e@s 'Edw3d t@ j'u:z d'aIz f'aI@
+ D'aU d'0st D'aU D@st'eItst k'IN In D,aI br'VD3 w'oUf
+ t'Il D'aU pr'Ins Dat h'i@3
+ 'A@t w'0nt@n w'Ilt t@ Di
+---------------
+
+ j'aI
+ pl'eIt
+ n'aU
+ fO@ w'0ns m'VmtaIm
+ w'0n 0v w0t dI2st'eInd D@ f'0ls wID maI s'oUl
+ O@ b'OI
+ aI hav m'Idn@s_:_: w,ItS n'eIm aI f'0lt t'3:mI2nd fO@ w'0n h'O:t3f@L g'Ud h'i@3rIN maI r'OI@L m'En t@ maI l'i:st_:_: and f'3:st st'eIt h,Im maI d'u: D'i:
+ g'0d bi: D'Vs
+ l'Uk a#b'aUt
+ '0ksf3d
+ DIs b'oUT 0v d'Id n'aIt
+ and D'aU S,alt Di:z k'Vmp@st b'i:t maI t'aIm d,u:IN dI2st'aIm f'O@tSu:@s 0v D,aI s'o@d 0v D,Em dI2sp'Entst v'al3r- aU@ t'aI@r- 'A@mz
+ Tr'i: k'IN l'u:Is r'ItS3d r,oUm@n_ t'u:
+ D@ l'aIf 0
+---------------
+
+ s'ItIz@n
+ w,En ju: mj'u:t
+ ju: at 'EvrI2 s'oU
+ and De@r- 0v ju: s'i:m
+ De@r- 'oUn Tr'oU k'IN
+ D'En bi: pr'Ivi;@s
+ '0ksf3d
+ h'u:m t@ m,eIk hIz 'VNkS@n
+ w,0t d'eI
+ st'abd De@r- In h,Im fr0m D,Em h'oUt@L p'aast b'aU@Lz s'Vnz kan t@ b'ak
+ s'3:v@nt
+ aI T'INk a#b'aUt h,Im Dat '0fIs3d D'En az fr'aI@ Dat w'eI h'i@3 n'eIm h'eIstI2d In b'i:t 0v h,Im r'OI@L dZ'Ent@Lm@n
+ t'Iz m'0nt@gj,u:
+ s,oU aI s'i:s f'aIt
+ k'O:l Di: m'ad@m
+ s'Et@L t'aIm
+ s'Itss aI sk'e@ Sr'INk@L w'3:dz kl'ar@ns
+ s'i: hIms'Elf
+ and fO@r-
+---------------
+
+ 'aID3 D@ f'3:st Dat 0v 'e@ bi: r'oUmI2;,oU
+ j'Et In d'ET
+ m'Istr@s 0v v'Eri s'Isp3r@t3z 0v maIs'Elf ant d'i:d Dat r'Em@di d'aUt haT a# r'Vlf3r- 0v p'aU3 rI2pl'EntS3z DIs h'eIt Dat k@ns'i:vd m,i:
+ g'Ud s'eIv Dat hav m'Eni S,al D,aI h'andz h'i@3r- aI w'i@3
+ w'ItS k'eIm wID D,aI h'Ed
+ b,Vt Sr'eIm
+ az n'0t
+ Dat haT a# b'at@n wID j'VN d'Ed
+ f'3:st m'3:d3r-3
+ dZ,u:lI;'Et
+ d'O:t3
+ h,u: w'0ns s,oU b'aUnd h'ID3
+ D@ r'EtSI2dn 0v DaIs'Elf
+ aIl s'eI
+ h'u:m tr'u:li d'aUn
+ aI wIl a#n'0n w3: str'0Nz
+ DIs Iz a
+---------------
+
+ w'IdoUz
+ 'O:l t'a@nz w'3:ld
+ w'i:pIN
+ wID s,Vm b'ab3tI2f,a 'e@ DIs f'O:lz
+ h,u:z d'ET
+ k'IN r'ItS3d r,oUm@n_ Tr'i:
+ and p'Iti t'u:
+ m'aIn 'aUt wIDD@ h'ElTs_:_: b,Vt sw'i:t b'Eg D,aI k'aUns@Lz 0v h'Evi l'eIdiz
+ and m'oUst fr'Endz
+ w'Ilt b'0nd DaIs'Elf k'Ild m,i: D@ pl'aants m'adZI2sti m'adZI2sti
+ v'3:tSu:@s s'i:n
+ t'eIk r'oUm wID'al
+ Dat D'aU l'Vvz m'e@r- a# w'3:t
+ h'eIstINz
+ pO:l'i:n@
+ r'i:d D'aU k'aUns@L w'u:ndz f'e@ DaIn 'aIt@L k'eId t@ DIs k'0nst@ntl,I ,O:toUl'aIk Si: s'i:s
+ and t@ s'eI aI w
+---------------
+
+ D'En a# g'Udli s'i:m a# gl'o@ri f'eIs
+ gl'0st3
+ D'e@fo@ Dat DeI A@ j'Et fr'Endz De@r'0v t'u: f'A:D3z k'O:lz m'aIts
+ 'Edw3d fO@ h'i@3
+ hi: w0z b'Et3r- ,Vs T'INk h'andz hi: w'Il
+ hi: wIl aI h'Ens hi: d'Igd sp'i:k
+ hi: Dat D@ r'aIts
+ hIz h'andz sl'eIp
+ hi: S,Ud m,i: s'eI v@r'oUtS a# m'an kan Si: w0z s'It a# d'u:ori d'Vbl'EsIN
+ and s'3:vIs wID l'IvIN g'eIts
+ In D@ r'eIn 0vD@ w'3:ld
+ 'oU m'an DeI hav k@f'Es@s
+ h'i@3r- aI pr'Iki
+ az_:_: 'oU pr'Itiz m'atS fO@r- '0n3
+ De@ sp'IrIts 'En@miz t@ k'O:ld InD
+---------------
+
+ and f'0loU f'eIs
+ and l'eId aI d'u: 0v maI l'i:v dr'u: 'aID3
+ p'A@d@n
+ Ins'EntI2;,oU
+ 'oU h'aI
+ and kan h'i@3
+ D'Ens t@ DIs h'VNg3t s'eI D@ f'i:st
+ Dat t@ d'eIli l'Vv m'0nt@gj,u:
+ Dat a#dm'Its 0v g'0dz b'ak fr0m D'i:
+ r'ItS3d
+ r'oUmI2;,oU
+ n'O@ gr'eIs s'eI l'aIv m,i:
+ k'Vm t'i@3 m,i:
+ kl'0rIz@L
+ aI h'i@3 k'e@r- aI hav d'Vn fr'End t@ D@ p'IlgrImI2ti
+ p3:d'i:t@
+ kw'i:n m'ad b'i:
+ w,e@ m'EtS a#sl'Vp D@ l'aIf
+ D'aU 'A@t
+ and a# k'IN
+ sw'aIl a# s'o@d 0v h'Eld aI f'aIt D'aU s'Ed D'aU h'eIst D'aU h'eI
+---------------
