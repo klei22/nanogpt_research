@@ -1,3 +1,4 @@
+chpt.pt.shakescharphoneme.mar27
 .DS_Store
 .idea
 .ipynb_checkpoints/
@@ -10,3 +11,7 @@ __pycache__/
 *out*/
 venv/
 input.txt
+*out*/
+venv/
+data*/
+midi*/
